@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherForecastTryIt", "WeatherForecastTryIt\WeatherForecastTryIt.csproj", "{F290F659-D69F-42C9-B23E-1003919AF34E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF} = {2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WeatherService(4)", "http://localhost:52450", "{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "true"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52450"
+		Debug.AspNetCompiler.PhysicalPath = "..\WeatherService\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52450\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52450"
+		Release.AspNetCompiler.PhysicalPath = "..\WeatherService\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52450\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "..\WeatherService\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F290F659-D69F-42C9-B23E-1003919AF34E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F290F659-D69F-42C9-B23E-1003919AF34E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F290F659-D69F-42C9-B23E-1003919AF34E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F290F659-D69F-42C9-B23E-1003919AF34E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC9186F-4A73-4F05-BAB2-25D82B8E86EF}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

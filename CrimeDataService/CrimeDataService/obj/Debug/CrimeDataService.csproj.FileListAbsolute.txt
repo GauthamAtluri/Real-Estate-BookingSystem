@@ -1,0 +1,12 @@
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll.config
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\bin\CrimeDataService.pdb
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.csprojResolveAssemblyReference.cache
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.dll
+c:\users\gautham\documents\visual studio 2013\Projects\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.pdb
+T:\New folder\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll.config
+T:\New folder\CrimeDataService\CrimeDataService\bin\CrimeDataService.dll
+T:\New folder\CrimeDataService\CrimeDataService\bin\CrimeDataService.pdb
+T:\New folder\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.csprojResolveAssemblyReference.cache
+T:\New folder\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.dll
+T:\New folder\CrimeDataService\CrimeDataService\obj\Debug\CrimeDataService.pdb

@@ -1,0 +1,12 @@
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\bin\WordFilterService.dll.config
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\bin\WordFilterService.dll
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\bin\WordFilterService.pdb
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\obj\Debug\WordFilterService.csprojResolveAssemblyReference.cache
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\obj\Debug\WordFilterService.dll
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterService\obj\Debug\WordFilterService.pdb
+T:\New folder\WordFilterService\WordFilterService\bin\WordFilterService.dll.config
+T:\New folder\WordFilterService\WordFilterService\bin\WordFilterService.dll
+T:\New folder\WordFilterService\WordFilterService\bin\WordFilterService.pdb
+T:\New folder\WordFilterService\WordFilterService\obj\Debug\WordFilterService.csprojResolveAssemblyReference.cache
+T:\New folder\WordFilterService\WordFilterService\obj\Debug\WordFilterService.dll
+T:\New folder\WordFilterService\WordFilterService\obj\Debug\WordFilterService.pdb

@@ -1,0 +1,18 @@
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll.config
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.pdb
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.csprojResolveAssemblyReference.cache
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.dll
+c:\users\gautham\documents\visual studio 2013\Projects\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.pdb
+E:\dsod a 3\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll.config
+E:\dsod a 3\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll
+E:\dsod a 3\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.pdb
+E:\dsod a 3\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.csprojResolveAssemblyReference.cache
+E:\dsod a 3\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.dll
+E:\dsod a 3\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.pdb
+T:\New folder\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll.config
+T:\New folder\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.dll
+T:\New folder\WordFilterService\WordFilterTryIt\bin\WordFilterTryIt.pdb
+T:\New folder\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.csprojResolveAssemblyReference.cache
+T:\New folder\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.dll
+T:\New folder\WordFilterService\WordFilterTryIt\obj\Debug\WordFilterTryIt.pdb

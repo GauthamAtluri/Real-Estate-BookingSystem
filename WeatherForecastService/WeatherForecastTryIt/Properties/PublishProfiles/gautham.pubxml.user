@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAZfVkMJjIr0+Is9AhYOum2AAAAAACAAAAAAADZgAAwAAAABAAAAC49Rs6I7NZSSAsMbafmM8OAAAAAASAAACgAAAAEAAAANv+qmJEc6fnge6U8A48l80QAAAAHtUZd8ufblzyZ73nAJ4nuhQAAABedYSQZ4Y/mQgocFj01YpldTuUTA==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://10.1.12.42:8060</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/WeatherForecastTryIt.dll">
+      <publishTime>04/06/2015 21:44:05</publishTime>
+    </File>
+    <File Include="bin/WeatherForecastTryIt.pdb">
+      <publishTime>04/06/2015 21:44:05</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>04/06/2015 21:39:37</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>04/06/2015 21:44:05</publishTime>
+    </File>
+    <File Include="Service References/ServiceReference1/WeatherForecastTryIt.ServiceReference1.CompositeType.datasource">
+      <publishTime>04/06/2015 19:22:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/06/2015 21:44:05</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
